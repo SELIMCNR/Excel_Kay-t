@@ -1,0 +1,10 @@
+C:\Users\btk02\source\repos\excel_test\excel_test\bin\Debug\excel_test.exe.config
+C:\Users\btk02\source\repos\excel_test\excel_test\bin\Debug\excel_test.exe
+C:\Users\btk02\source\repos\excel_test\excel_test\bin\Debug\excel_test.pdb
+C:\Users\btk02\source\repos\excel_test\excel_test\obj\Debug\excel_test.csproj.AssemblyReference.cache
+C:\Users\btk02\source\repos\excel_test\excel_test\obj\Debug\excel_test.Form1.resources
+C:\Users\btk02\source\repos\excel_test\excel_test\obj\Debug\excel_test.Properties.Resources.resources
+C:\Users\btk02\source\repos\excel_test\excel_test\obj\Debug\excel_test.csproj.GenerateResource.cache
+C:\Users\btk02\source\repos\excel_test\excel_test\obj\Debug\excel_test.csproj.CoreCompileInputs.cache
+C:\Users\btk02\source\repos\excel_test\excel_test\obj\Debug\excel_test.exe
+C:\Users\btk02\source\repos\excel_test\excel_test\obj\Debug\excel_test.pdb
